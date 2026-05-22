@@ -1,0 +1,37 @@
+# Node
+node_modules/
+.npm
+.npmrc
+
+# Build
+dist/
+build/
+*.log
+
+# Xcode
+xcuserdata/
+*.xcworkspace
+*.xcodeproj
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Figma Make specific
+__figma__entrypoint__.ts
+guidelines/
+src/
+default_shadcn_theme.css
+index.html
+package.json
+pnpm-lock.yaml
+pnpm-workspace.yaml
+postcss.config.mjs
+vite.config.ts
+ATTRIBUTIONS.md
